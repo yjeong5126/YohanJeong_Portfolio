@@ -25,3 +25,8 @@ In this project, I show how to convert a data in one spreadsheet to a relational
 [Link](https://github.com/yjeong5126/glassdoor_data_analyst) to the project
 
 In this project, I scrape over 3000 job postings for 'Data Analyst' from the Glassdoor website. Since the Glassdoor website is dynamic, I use the *Selenium* library in the Python to scrape the job postings related to 'Data Analyst'. After scraping the job postings, I clean the scraped data using the Python and convert it to the format for the Relational Database to store it in the SQL format. Lastly, I visualize the data using *Tableau*, showing the salary distributions by state, city, sector, and skills.
+
+## Cohort Analysis
+[Link](https://github.com/yjeong5126/eCommerce-Analysis/blob/master/cohort_analysis/e_commerce_cohort_analysis.ipynb) to the project
+
+In this project, I implement the cohort analysis using eCommerce data from UIC machine learning repository. In the code, I show how to create the matrix for cohort analysis from the raw ecommerce data. 
