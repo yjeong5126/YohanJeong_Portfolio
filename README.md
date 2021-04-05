@@ -30,3 +30,10 @@ In this project, I scrape over 3000 job postings for 'Data Analyst' from the Gla
 [Link](https://github.com/yjeong5126/eCommerce-Analysis/blob/master/cohort_analysis/e_commerce_cohort_analysis.ipynb) to the project
 
 In this project, I implement the cohort analysis using eCommerce data from UIC machine learning repository. In the code, I show how to create the matrix for cohort analysis from the raw ecommerce data. 
+
+## Making a Content-based Movie Recommender
+[Link](https://github.com/yjeong5126/movie_recommender/tree/master/content_based) to the project
+
+Among the several recommendation models, I build a **content-based** recommendation engine in this practice. I used a movie data set from the **MovieLens**, which has 9742 movies. The first step is to quantify the movie features using the **Term Frequency and Inverse Document Frequency (tf-idf)**, and the next step is to calculate the similarities between movies using the **cosine similarity**. Furthermore, I add the '**Did you mean...?**' function to the recommender in order to make the searching process easier. The additional explanation can be found [here](https://yjeong5126.medium.com/creating-content-based-movie-recommender-with-python-7f7d1b739c63).
+
+
