@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Portfolio
 This portofolio is a compilation of web scraping, data cleaning, and data analysis. Each project is in the separate repository and the link to each project is added in this portfolio.  
 
 ## Scraping Box Office Info Using Scrapy
