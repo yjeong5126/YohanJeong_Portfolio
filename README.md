@@ -51,4 +51,10 @@ Among the several recommendation models, I build a **content-based** recommendat
 
 [Article](https://yjeong5126.medium.com/creating-content-based-movie-recommender-with-python-7f7d1b739c63)
 
+## Making a Item-based Collaborative Filtering
 
+Among the several recommendation models, I build an **item-based** collaborative filtering for movie recommendation. I used a movie data set from the **MovieLens**. In order to predict a rating for a movie by a selected user, the first step is to find similar movies to the movie using the **cosine similarity**. The next step is to calculate the weighted average of ratings for the similar movies by the user. Then, the average can be the predicted rating for the movie by the selected user. Applyting this algorithm, I built a movie recommendation for the movie dataset.
+
+[Code](https://github.com/yjeong5126/movie_recommender)
+
+[Article](https://yjeong5126.medium.com/item-based-collaborative-filtering-in-python-91f747200fab)
