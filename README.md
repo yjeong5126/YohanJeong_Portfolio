@@ -9,11 +9,15 @@ This Portfolio contains data-related projects.
 
 [Medium Post](https://medium.com/analytics-vidhya/scraping-box-office-info-with-scrapy-f23f1f2d684f)
 
-## [Project 2: Analysis of Movies and their Trailer Release Dates](https://github.com/yjeong5126/movietrailer_releasedate)
-
-This is based on the movie information scraped by using the method in **Scraping Box Office Info Using Scrapy**. I examine whether the variation in the promotion period is one of the strategies for promoting the movies. To test this, I examine the factors related to the decision about the length of the promotion period. The factors to be tested are budget, distributors, MPAA, and genres. 
+## [Project 2: Analysis of Movies and their Trailer Release Dates](https://github.com/yjeong5126/movietrailer_releasedate) 
 
 [Medium Post](https://medium.com/@yjeong5126/analysis-of-movie-trailer-release-date-3c6e30681aea)
+
+- Scraped the *Boxofficemojo* and *Traileraddict* websites to get movie information.
+- Explored movie features such as budget, distributors, MPAA, and genres.
+- Examined whether the variation in the promotion period is related to such features. 
+
+<img src="https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/budget_promotiondays.PNG" width="500" height="300">
 
 ## [Project 3: Predicting Housing Prices using Cross Validation and Grid Search in Regression Models](https://github.com/yjeong5126/housing_prices)
 
