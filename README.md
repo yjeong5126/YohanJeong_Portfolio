@@ -1,4 +1,4 @@
-# Yohan Jeong's Portfolio
+# YohanJeong_Portfolio
 This is the Data Science Portfolio.  
 
 ## [Project 1: Scraping Box Office Info Using Scrapy](https://github.com/yjeong5126/scraping_boxofficemojo)
