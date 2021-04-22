@@ -31,7 +31,9 @@ This Portfolio contains data-related projects.
 ![](/images/cross_val_summary_graph.PNG)
 
 ## [Project 4: Creating a Database and Practicing SQL Queries](https://github.com/yjeong5126/sql_sample_sales_data)
+
 [Medium Post 1](https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a)
+
 [Medium Post 2](https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5)
 
 - Converted a data in one spreadsheet to a relational database for SQL.
@@ -44,7 +46,7 @@ This Portfolio contains data-related projects.
 - Converted the data to the format for the Relational Database to store it in the SQL format.
 - Visualized the data using *Tableau*, showing the salary distributions by state, city, sector, and skills.
 
-![](/images/tableau_captured.PNG)
+[![](/images/tableau_captured.PNG)](https://public.tableau.com/profile/yohan.jeong#!/vizhome/Glassdoor_DataAnalyst/Dashboard)
 
 ## [Project 6: Cohort Analysis](https://github.com/yjeong5126/eCommerce-Analysis/blob/master/cohort_analysis/e_commerce_cohort_analysis.ipynb)
 
