@@ -5,7 +5,7 @@ This Portfolio contains data-related projects.
 
 [Medium Post](https://medium.com/analytics-vidhya/scraping-box-office-info-with-scrapy-f23f1f2d684f)
 
-- Scraped the *Boxofficemojo* website using **Scrapy** in **Python**. 
+- Scraped the *Boxofficemojo* website using Scrapy in Python. 
 - Checked all the movies released in the US during certain periods of time and extracted useful information about the individual movies. 
 - For each movie, *Domestic Revenues, Worldwide Revenues, Distributor, Opening, Budget, MPAA, Genres, and In Release* are scraped.
 
