@@ -75,4 +75,4 @@ This Portfolio contains data-related projects.
 - Predicted the unknown rating for the movie using the weighted average of ratings for the similar movies by the user.
 - Built a movie recommender using the algorithm and applied it to the real movie dataset.
 
-![](/images/rating_sample2.PNG)
+![](/images/item_test.PNG)
