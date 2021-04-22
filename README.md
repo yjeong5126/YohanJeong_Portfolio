@@ -17,7 +17,7 @@ This Portfolio contains data-related projects.
 - Explored movie features such as budget, distributors, MPAA, and genres.
 - Examined whether the variation in the promotion period is related to such features. 
 
-![](https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/budget_promotiondays.PNG)
+![](/images/budget_promotiondays.PNG)
 
 ## [Project 3: Predicting Housing Prices using Cross Validation and Grid Search in Regression Models](https://github.com/yjeong5126/housing_prices)
 
@@ -28,7 +28,7 @@ This Portfolio contains data-related projects.
 - Found the optimal values for hyper parameters in each model using the methods of the *Cross Validation* and *Grid Search* techniques.
 - Compared the results to find the best machine learning model to predict the housing prices in Melbourne. 
 
-![](https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/cross_val_summary_graph.PNG)
+![](/images/cross_val_summary_graph.PNG)
 
 ## [Project 4: Creating a Database and Practicing SQL Queries](https://github.com/yjeong5126/sql_sample_sales_data)
 
