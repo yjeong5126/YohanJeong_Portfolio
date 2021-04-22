@@ -19,11 +19,16 @@ This Portfolio contains data-related projects.
 
 ![](https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/budget_promotiondays.PNG)
 
-<img src="https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/budget_promotiondays.PNG" width="500" height="300">
-
 ## [Project 3: Predicting Housing Prices using Cross Validation and Grid Search in Regression Models](https://github.com/yjeong5126/housing_prices)
 
-In this project, I analyze the factors related to housing prices in Melbourne and perform the predictions for the housing prices using several machine learning techniques. The models used in this analysis are *Linear Regression, Ridge Regression, K-Nearest Neighbors (hereafter, KNN), and Decision Tree*. Using the methods of the *Cross Validation* and *Grid Search* techniques, I find the optimal values for hyper parameters in each model, and compare the results to find the best machine learning model to predict the housing prices in Melbourne. 
+[Medium Post](https://medium.com/@yjeong5126/predicting-housing-prices-in-melbourne-e3d5f49abf20)
+
+- Analyze the factors related to housing prices in Melbourne and performed the predictions for the housing prices using several machine learning techniques. 
+- Employed *Linear Regression, Ridge Regression, K-Nearest Neighbors, and Decision Tree*. 
+- Found the optimal values for hyper parameters in each model using the methods of the *Cross Validation* and *Grid Search* techniques.
+- Compared the results to find the best machine learning model to predict the housing prices in Melbourne. 
+
+![](https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/cross_val_summary_graph.PNG)
 
 [Medium Post](https://medium.com/@yjeong5126/predicting-housing-prices-in-melbourne-e3d5f49abf20)
 
