@@ -63,7 +63,7 @@ This Portfolio contains data-related projects.
 - Calculated the similarities between movies using the **cosine similarity**.
 - Added the '**Did you mean...?**' function to the recommender in order to make the searching process easier.
 
-![](/images/cos_sim1.PNG)
+![](/images/content_test.PNG)
 
 
 ## [Project 8: Making an Item-based Collaborative Filtering](https://github.com/yjeong5126/movie_recommender)
