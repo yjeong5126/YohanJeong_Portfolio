@@ -1,7 +1,7 @@
-# Portfolio
-This portofolio is a compilation of web scraping, data cleaning, and data analysis. Each project is in the separate repository and the link to each project is added in this portfolio.  
+# Yohan Jeong's Portfolio
+This is the Data Science Portfolio.  
 
-## Scraping Box Office Info Using Scrapy
+## [Project 1: Scraping Box Office Info Using Scrapy](https://github.com/yjeong5126/scraping_boxofficemojo)
 
 This shows how to scrape the *Boxofficemojo* website using **Scrapy** in **Python**. I check all the movies released in the US during certain periods of time and extract useful information about the individual movies. For each movie, the elements that I scrape here are *Domestic Revenues, Worldwide Revenues, Distributor, Opening, Budget, MPAA, Genres, and In Release*.
 
