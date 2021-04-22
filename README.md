@@ -32,9 +32,8 @@ This Portfolio contains data-related projects.
 
 ## [Project 4: Creating a Database and Practicing SQL Queries](https://github.com/yjeong5126/sql_sample_sales_data)
 
-[Medium Post 1](https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a)
-
-[Medium Post 2](https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5)
+[Medium Post Part1](https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a)
+[Medium Post Part2](https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5)
 
 - Converted a data in one spreadsheet to a relational database for SQL.
 - Performed several SQL queries using the database.
@@ -50,16 +49,30 @@ This Portfolio contains data-related projects.
 
 ## [Project 6: Cohort Analysis](https://github.com/yjeong5126/eCommerce-Analysis/blob/master/cohort_analysis/e_commerce_cohort_analysis.ipynb)
 
-In this project, I implement the cohort analysis using eCommerce data from UIC machine learning repository. In the code, I show how to create the matrix for cohort analysis from the raw ecommerce data. 
+- Implemented the cohort analysis using eCommerce data from UIC machine learning repository
+- Showed how to create the matrix for cohort analysis from the raw ecommerce data. 
+
+![](/images/cohort.PNG)
 
 ## [Project 7: Making a Content-based Movie Recommender](https://github.com/yjeong5126/movie_recommender)
 
-Among the several recommendation models, I build a **content-based** recommendation engine in this practice. I used a movie data set from the **MovieLens**, which has 9742 movies. The first step is to quantify the movie features using the **Term Frequency and Inverse Document Frequency (tf-idf)**, and the next step is to calculate the similarities between movies using the **cosine similarity**. Furthermore, I add the '**Did you mean...?**' function to the recommender in order to make the searching process easier.
-
 [Medium Post](https://yjeong5126.medium.com/creating-content-based-movie-recommender-with-python-7f7d1b739c63)
+
+- Used a movie data set from the **MovieLens**, which has 9742 movies.
+- Quantified the movie features using the **Term Frequency and Inverse Document Frequency (tf-idf)**.
+- Calculated the similarities between movies using the **cosine similarity**.
+- Added the '**Did you mean...?**' function to the recommender in order to make the searching process easier.
+
+![](/images/cos_sim1.PNG)
+
 
 ## [Project 8: Making an Item-based Collaborative Filtering](https://github.com/yjeong5126/movie_recommender)
 
-Among the several recommendation models, I build an **item-based** collaborative filtering for movie recommendation. I used a movie data set from the **MovieLens**. In order to predict a rating for a movie by a selected user, the first step is to find similar movies to the movie using the **cosine similarity**. The next step is to calculate the weighted average of ratings for the similar movies by the user. Then, the average can be the predicted rating for the movie by the selected user. Applyting this algorithm, I built a movie recommendation for the movie dataset.
-
 [Medium Post](https://yjeong5126.medium.com/item-based-collaborative-filtering-in-python-91f747200fab)
+
+- Used a sample rating dataset: 10 movies and 10 users
+- Found similar movies to a selected movie using the **NearestNeighbors()** in the **sklearn** library which applies the **cosine similarity** method.
+- Predicted the unknown rating for the movie using the weighted average of ratings for the similar movies by the user.
+- Built a movie recommender using the algorithm and applied it to the real movie dataset.
+
+![](/images/rating_sample2.PNG)
