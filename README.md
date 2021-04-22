@@ -31,12 +31,20 @@ This Portfolio contains data-related projects.
 ![](/images/cross_val_summary_graph.PNG)
 
 ## [Project 4: Creating a Database and Practicing SQL Queries](https://github.com/yjeong5126/sql_sample_sales_data)
+[Medium Post 1](https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a)
+[Medium Post 2](https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5)
 
-In this project, I show how to convert a data in one spreadsheet to a relational database for SQL. After the database is created, I perform several SQL queries using the database.
+- Converted a data in one spreadsheet to a relational database for SQL.
+- Performed several SQL queries using the database.
 
 ## [Project 5: The Analysis for Glassdoor Job Postings](https://github.com/yjeong5126/glassdoor_data_analyst)
 
-In this project, I scrape over 3000 job postings for 'Data Analyst' from the Glassdoor website. Since the Glassdoor website is dynamic, I use the *Selenium* library in the Python to scrape the job postings related to 'Data Analyst'. After scraping the job postings, I clean the scraped data using the Python and convert it to the format for the Relational Database to store it in the SQL format. Lastly, I visualize the data using *Tableau*, showing the salary distributions by state, city, sector, and skills.
+- Scraped over 3000 job postings for 'Data Analyst' from the Glassdoor website using the *Selenium* library in the Python
+- Cleaned the scraped data using the Python.
+- Converted the data to the format for the Relational Database to store it in the SQL format.
+- Visualized the data using *Tableau*, showing the salary distributions by state, city, sector, and skills.
+
+![](/images/tableau_captured.PNG)
 
 ## [Project 6: Cohort Analysis](https://github.com/yjeong5126/eCommerce-Analysis/blob/master/cohort_analysis/e_commerce_cohort_analysis.ipynb)
 
