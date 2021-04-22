@@ -32,8 +32,8 @@ This Portfolio contains data-related projects.
 
 ## [Project 4: Creating a Database and Practicing SQL Queries](https://github.com/yjeong5126/sql_sample_sales_data)
 
-[Medium Post Part1](https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a)
-[Medium Post Part2](https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5)
+[Medium Post 1](https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a) /
+[Medium Post 2](https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5)
 
 - Converted a data in one spreadsheet to a relational database for SQL.
 - Performed several SQL queries using the database.
