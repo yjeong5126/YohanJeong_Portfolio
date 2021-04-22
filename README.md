@@ -5,9 +5,7 @@ This Portfolio contains data-related projects.
 
 This shows how to scrape the *Boxofficemojo* website using **Scrapy** in **Python**. I check all the movies released in the US during certain periods of time and extract useful information about the individual movies. For each movie, the elements that I scrape here are *Domestic Revenues, Worldwide Revenues, Distributor, Opening, Budget, MPAA, Genres, and In Release*.
 
-[Code](https://github.com/yjeong5126/scraping_boxofficemojo)
-
-[Article](https://medium.com/analytics-vidhya/scraping-box-office-info-with-scrapy-f23f1f2d684f)
+[Medium Post](https://medium.com/analytics-vidhya/scraping-box-office-info-with-scrapy-f23f1f2d684f)
 
 ## Analysis of Movies and their Trailer Release Dates
 
