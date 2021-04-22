@@ -17,6 +17,8 @@ This Portfolio contains data-related projects.
 - Explored movie features such as budget, distributors, MPAA, and genres.
 - Examined whether the variation in the promotion period is related to such features. 
 
+![](https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/budget_promotiondays.PNG)
+
 <img src="https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/budget_promotiondays.PNG" width="500" height="300">
 
 ## [Project 3: Predicting Housing Prices using Cross Validation and Grid Search in Regression Models](https://github.com/yjeong5126/housing_prices)
