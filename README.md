@@ -3,11 +3,11 @@ This Portfolio contains data-related projects.
 
 ## [Project 1: Scraping Box Office Info Using Scrapy](https://github.com/yjeong5126/scraping_boxofficemojo)
 
+[Medium Post](https://medium.com/analytics-vidhya/scraping-box-office-info-with-scrapy-f23f1f2d684f)
+
 - Scraped the *Boxofficemojo* website using **Scrapy** in **Python**. 
 - Checked all the movies released in the US during certain periods of time and extracted useful information about the individual movies. 
 - For each movie, *Domestic Revenues, Worldwide Revenues, Distributor, Opening, Budget, MPAA, Genres, and In Release* are scraped.
-
-[Medium Post](https://medium.com/analytics-vidhya/scraping-box-office-info-with-scrapy-f23f1f2d684f)
 
 ## [Project 2: Analysis of Movies and their Trailer Release Dates](https://github.com/yjeong5126/movietrailer_releasedate) 
 
@@ -29,8 +29,6 @@ This Portfolio contains data-related projects.
 - Compared the results to find the best machine learning model to predict the housing prices in Melbourne. 
 
 ![](https://github.com/yjeong5126/YohanJeong_Portfolio/blob/main/images/cross_val_summary_graph.PNG)
-
-[Medium Post](https://medium.com/@yjeong5126/predicting-housing-prices-in-melbourne-e3d5f49abf20)
 
 ## [Project 4: Creating a Database and Practicing SQL Queries](https://github.com/yjeong5126/sql_sample_sales_data)
 
